@@ -1,4 +1,4 @@
-# `TermProject
+# TermProject
 This repository is an application for the term project at St. Thomas University class CIS-545 Data Warehouse
 <br>
 
